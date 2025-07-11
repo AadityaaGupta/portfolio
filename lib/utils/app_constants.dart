@@ -23,13 +23,12 @@ I’m committed to writing clean, modular, and maintainable code while ensuring 
     'Mobile App Development',
     'UI/UX Design',
     'REST APIs Integration',
-    'State Management (Provider, Riverpod, Bloc)',
+    'State Management (Bloc)',
     'Firebase Services',
-    'SQLite & Hive',
+    'SQL',
     'Git & Version Control',
     'Android Development',
     'iOS Development',
-    'Material Design',
     'Responsive Design',
   ];
 
@@ -40,7 +39,6 @@ I’m committed to writing clean, modular, and maintainable code while ensuring 
     'Project Management',
     'Agile Development',
     'Code Review',
-    'Testing & Debugging',
-    'Documentation',
+    'Testing & Debugging'
   ];
 }

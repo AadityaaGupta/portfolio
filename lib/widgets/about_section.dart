@@ -79,7 +79,7 @@ class AboutSection extends StatelessWidget {
         _buildInfoItem(Icons.phone, 'Phone', AppConstants.phone),
         _buildInfoItem(Icons.location_on, 'Location', AppConstants.location),
         _buildInfoItem(Icons.school, 'Education', 'B.Tech - CGPA: 8.0'),
-        _buildInfoItem(Icons.work, 'Experience', '2+ Years'),
+        _buildInfoItem(Icons.work, 'Experience', '1 Year and 8 months'),
       ],
     );
   }

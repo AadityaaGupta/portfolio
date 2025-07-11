@@ -6,15 +6,15 @@ import '../models/education_model.dart';
 class DummyData {
   static List<Project> projects = [
     Project(
-      title: 'E-Commerce Mobile App',
+      title: 'Womens Best Look',
       description:
           'A comprehensive e-commerce application with user authentication, product catalog, shopping cart, and payment integration. Features include real-time notifications, order tracking, and user reviews.',
       imageUrl:
-          'https://via.placeholder.com/400x300/2196F3/FFFFFF?text=E-Commerce+App',
-      technologies: ['Flutter', 'Dart', 'Firebase', 'Stripe API', 'Provider'],
-      githubUrl: 'https://github.com/username/ecommerce-app',
+          'https://drive.google.com/file/d/1vpa6BljRuPxadldtP2o7KqE6dJSiRGMS/view?usp=drive_link',
+      technologies: ['Flutter', 'Dart', 'Firebase','Bloc'],
+      // githubUrl: 'https://github.com/username/ecommerce-app',
       playStoreUrl:
-          'https://play.google.com/store/apps/details?id=com.example.ecommerce',
+          'https://play.google.com/store/apps/details?id=com.itg.mob67587b09917a60b14c759781&hl=en',
       category: 'Mobile App',
       isFeatured: true,
     ),

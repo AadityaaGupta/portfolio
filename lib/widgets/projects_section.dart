@@ -16,12 +16,12 @@ class _ProjectsSectionState extends State<ProjectsSection> {
   String selectedCategory = 'All';
   List<String> categories = [
     'All',
-    'Mobile App',
-    'Productivity',
-    'Utility',
+    'Womens Best Look',
+    'Imprinted Suplies',
+    'Brighter Nights',
     'Social',
-    'Health',
-    'Food & Drink'
+    'My Fitness',
+    'Gup Shup'
   ];
 
   @override
